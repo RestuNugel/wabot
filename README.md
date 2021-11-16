@@ -23,7 +23,7 @@ npm update
 ```bash
 apt update && apt upgrade
 apt install git -y
-git clone https://github.com/LitRHap/wabot
+git clone https://github.com/RestuNugel/wabot
 bash install.sh
 ```
 ---------
